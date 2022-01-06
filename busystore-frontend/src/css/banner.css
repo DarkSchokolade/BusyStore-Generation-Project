@@ -1,0 +1,18 @@
+.banner {
+  width: 100vw;
+  height: 500px;
+  margin: 0 auto;
+}
+
+.banner-title {
+  color: black;
+  background-color: #f4f4f4;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+.banner-img {
+  width: 100%;
+  height: 360px;
+  object-fit: cover;
+}
