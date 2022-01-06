@@ -13,3 +13,8 @@
   align-items: center;
   justify-content: space-between;
 }
+
+.gap {
+  width: 100vh;
+  height: 6rem;
+}
