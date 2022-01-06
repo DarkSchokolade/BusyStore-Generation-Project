@@ -4,6 +4,7 @@
   gap: 1rem;
   grid-template-columns: 1fr;
   justify-content: center;
+  margin-bottom: 8em;
 }
 
 .card {
